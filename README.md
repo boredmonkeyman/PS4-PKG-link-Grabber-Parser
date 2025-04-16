@@ -1,5 +1,10 @@
 # PS4-PKG-link-Grabber-Parser
 
+building custom scripts for money doesn't have to be PS related 
+
+https://t.me/boredmonkeymanschat
+
+
 Here's a comprehensive `README.md` for your PS4 Game Scraper project:
 
 ```markdown
